@@ -1,4 +1,14 @@
-# Wikipedia Links (DISCOUNTINUE)
+# !! DISCOUNTINUE !!
+The project we are planning to scrape manully using script are not best solution and harmful for Wikipedia server. Instead, I am going to use database dump proivded by Wikimedia.
+
+Some link that can be used for the main project of Wikipedia article network graph modeling:
+- https://dumps.wikimedia.org/
+- https://quarry.wmcloud.org/
+- https://en.wikipedia.org/wiki/Wikipedia:Namespace
+- https://www.mediawiki.org/w/index.php?title=Manual:Database_layout/diagram&action=render
+- https://www.mediawiki.org/wiki/Manual:MediaWiki_architecture#Database_and_text_storage
+
+# Wikipedia Links
 
 This project is the base project for the "Wikipedia article network graph modeling" project.
 
