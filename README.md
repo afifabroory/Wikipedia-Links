@@ -1,4 +1,5 @@
-# Wikipedia Links
+# Wikipedia Links (DISCOUNTINUE)
+
 This project is the base project for the "Wikipedia article network graph modeling" project.
 
 In short, this project is for extracting links in the Wikipedia article and store links relationship into database. 
